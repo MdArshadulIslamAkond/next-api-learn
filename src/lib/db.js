@@ -1,0 +1,1 @@
+const {DB_USER, DB_PASS}=process.env;
